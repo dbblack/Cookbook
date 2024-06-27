@@ -29,4 +29,5 @@ Author: Dalton Blackwelder
 7. layer the whipped cream on middle and top of the pudding
 8. cover with plastic wrap and let sit overnight for min. of 24hrs.
 9. Enjoy!
+10. Serve it!
 

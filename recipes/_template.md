@@ -1,4 +1,4 @@
-# Name of Recipe
+# Pizza
 
 Author: *Your Name*
 
