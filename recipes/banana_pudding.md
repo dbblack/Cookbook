@@ -1,4 +1,4 @@
-# Name of Recipe
+# Grandma's Famous Banana Pudding
 
 Author: Dalton Blackwelder
 
