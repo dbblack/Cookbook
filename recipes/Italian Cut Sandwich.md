@@ -4,7 +4,7 @@ Author: Dalton Blackwelder
 
 > Italian salami and cold cut classics to perfection! *Chef's kiss
 
-<img src="images/italian sandwich.png>" width=250
+<img src="images/italian sandwich.png" width=250>
 
 ## Ingredients
 
