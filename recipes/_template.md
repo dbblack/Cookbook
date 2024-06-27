@@ -1,8 +1,8 @@
-# Pizza
+# Italian Cut Sandwich
 
-Author: *Your Name*
+Author: Dalton Blackwelder  
 
-> A fun fact about this recipe and why you like it.
+> Italian salami and cold cut classics to perfection! *Chef's kiss
 
 ![alt-text](images/sample.png)
 
@@ -11,12 +11,34 @@ Author: *Your Name*
 
 ## Ingredients
 
-* 1 cup flour
-* 1/2 cup butter
+- Salami
+- Pepperoni
+- Prosciutto
+- Bologna
+- Green Pepers
+- Banana Peppers
+- Salt 
+- McCormick Brand* Pepper
+- Distilled White Vinegar
+- Olive Oil
+- Yellow Mustard
+- Red Tomato
+- Lettuce
+- Chabatta Bread
+- Pepper Jack Cheese
+
+## Optional Ingredients
+- Dijon Mustard
+- Sourdough Bread
+- Black Olives
+- Provologne Cheese
 
 
 ## Directions
 
-1. Stir together
-1. Bake at 350<sup>o</sup> for 15 minutes
-1. Cool before enjoying.
+1. Rinse off all vegetables and tomatoes
+2. Slice Vegetables: Banana peppers, green peppers, and lettuce
+3. Slice red tomatoes
+4. Slice bread loaf to desired length
+5. Combine meat, cheese, veggies, tomatoes, and toppings/seasonings.
+6. Enjoy
