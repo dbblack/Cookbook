@@ -4,7 +4,7 @@ Author: Dalton Blackwelder
 
 > banana pudding so good you forget all your problems
 
-![alt-text](images/sample.png)
+![alt-text](images/ban pudding.png)
 
 <!-- If your image is too big, you can use HTML -->
 <!-- <img src="images/sample.png" width=250> -->
