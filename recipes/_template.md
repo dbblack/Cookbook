@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Italian Cut Sandwich
+=======
+# Name of Food
+>>>>>>> main
 
 Author: Dalton Blackwelder  
 
