@@ -1,17 +1,10 @@
-<<<<<<< HEAD
 # Italian Cut Sandwich
-=======
-# Name of Food
->>>>>>> main
 
 Author: Dalton Blackwelder  
 
 > Italian salami and cold cut classics to perfection! *Chef's kiss
 
-![alt-text](images/sample.png)
-
-<!-- If your image is too big, you can use HTML -->
-<!-- <img src="images/sample.png" width=250> -->
+<img src="images/italian sandwich.png>" width=250
 
 ## Ingredients
 
