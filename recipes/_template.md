@@ -1,4 +1,4 @@
-# Pizza
+# Name of Food
 
 Author: *Your Name*
 
