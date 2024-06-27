@@ -4,8 +4,8 @@ Author: Dalton Blackwelder
 
 > banana pudding so good you forget all your problems
 
-![alt-text](images/ban pudding.png)
-img src= "C:/Users/blackwelder/Pictures/ban pudding.png" width=250
+<img src="images/ban pudding.png" width=250>
+
 
 <!-- If your image is too big, you can use HTML -->
 <!-- <img src="images/sample.png" width=250> -->
